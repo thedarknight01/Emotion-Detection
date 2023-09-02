@@ -15,7 +15,7 @@ This Emotion Detection project aims to identify and classify human emotions base
 ### Prerequisites
 
 - Python 3.8
-- Required packages listed in `Tensorflow, cv2, Numpy, Deepface`
+- Required packages listed in `Tensorflow`, `cv2`, `Numpy`, `Deepface`
 
 ### Installation
 
