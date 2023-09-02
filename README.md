@@ -1,7 +1,7 @@
 # Emotion-Detection
 # Emotion Detection Project
 
-#Introduction
+# Introduction
 
 This Emotion Detection project aims to identify and classify human emotions based on visual input data. Emotion detection has various applications in natural language processing, computer vision, and human-computer interaction.
 
