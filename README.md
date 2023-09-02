@@ -24,3 +24,18 @@ This Emotion Detection project aims to identify and classify human emotions base
    ```bash
    git clone https://github.com/thedarknight01/emotion-detection.git
    cd emotion-detection
+
+
+# Install the required packages:
+```bash
+pip install -r TensorFlow
+pip install -r numpy
+pip install -r cv2
+pip install -r Deepface
+```
+# Usage
+
+To use the emotion detection system, follow the instructions in the respective sections below
+ 
+
+
