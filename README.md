@@ -33,9 +33,15 @@ pip install -r numpy
 pip install -r cv2
 pip install -r Deepface
 ```
-# Usage
 
-To use the emotion detection system, follow the instructions in the respective sections below
+You should have a camera with clean image-capturing capability which will be used in live Emotion detection.
+Camera upto 720p 30 fps
+
+
+
+
+
+
  
 
 
